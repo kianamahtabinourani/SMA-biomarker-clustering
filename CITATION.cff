@@ -1,0 +1,26 @@
+
+cff-version: 1.2.0
+message: "If you use this research software, please cite this repository and the associated BATS 2024 publication."
+type: software
+
+title: "SMA Biomarker Discovery and Gene Co-Expression Network Analysis"
+
+authors:
+  - family-names: "Mahtabi Nourani"
+    given-names: "Kiana"
+
+repository-code: "https://github.com/kianamahtabinourani/SMA-biomarker-clustering"
+
+abstract: >-
+  MATLAB-based computational research software for investigating
+  gene co-expression relationships, biomarker-guided clustering,
+  and candidate molecular biomarkers associated with
+  Spinal Muscular Atrophy (SMA).
+
+keywords:
+  - Spinal Muscular Atrophy
+  - Biomarker Discovery
+  - Gene Co-expression
+  - Systems Biology
+  - MATLAB
+  - Computational Genomics
