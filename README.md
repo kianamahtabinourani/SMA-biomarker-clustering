@@ -191,6 +191,13 @@ The computational analysis identified distinct co-expression profiles between co
 | `figures/` | Research visualizations (planned) |
 | `docs/` | Dataset and workflow documentation (planned) |
 
+## Documentation
+
+Detailed documentation of the research dataset and computational methodology is available below:
+
+- [Dataset Documentation](docs/DATA.md) — Dataset source, preprocessing, and data organization.
+- [Computational Workflow](docs/WORKFLOW.md) — MATLAB processing stages, biomarker co-expression analysis, clustering methodology, and script execution order.
+
 ## Running the Available Clustering Scripts
 
 The existing repository includes MATLAB scripts for the initial co-expression and clustering stages.
